@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.henry.dao.UserDAO">
+
+	<resultMap id="BaseResultMap" type="com.henry.bean.User">
+		<id column="id" property="id" jdbcType="BIGINT" />
+		<result column="name" property="userName" jdbcType="VARCHAR" />
+		<result column="birthday" property="birthday" jdbcType="TIMESTAMP" />
+	</resultMap>
+
+
+	<sql id="Base_Column_List">
+		id, name, birthday
+	</sql>
+
+
+	<!-- 添加 Union resultMap -->
+	<resultMap id="UnionResultMap" type="com.henry.bean.Union">
+		<id column="id" property="id" jdbcType="BIGINT" />
+		<result column="name" property="userName" jdbcType="VARCHAR" />
+		<result column="birthday" property="birthday" jdbcType="TIMESTAMP" />
+		<association property="company" javaType="com.henry.bean.Company">
+			<result column="companyname" property="companyName" jdbcType="VARCHAR" />
+			<result column="address" property="address" jdbcType="VARCHAR" />
+		</association>
+	</resultMap>
+
+	<!-- <resultMap id="UnionResultMap" type="com.henry.bean.Union"> <id column="id" 
+		property="id" jdbcType="BIGINT" /> <result column="name" property="userName" 
+		jdbcType="VARCHAR" /> <result column="birthday" property="birthday" jdbcType="TIMESTAMP" 
+		/> <result column="cname" property="companyName" jdbcType="VARCHAR" /> <result 
+		column="address" property="address" jdbcType="VARCHAR" /> </resultMap> -->
+		
+	<!-- 添加 联合查询SQL语句 ,进行分页查询 -->
+	<select id="selectByPrimaryKeyUnion" resultMap="UnionResultMap">
+		select u.name, u.id, u.birthday,
+		c.name as companyname,c.address
+		from s_user u,s_company c
+		where u.id=c.id and u.id=#{id}
+	</select>
+
+<!-- 	<select id="selectByPage" resultMap="UnionResultMap">
+		select u.name, u.id, u.birthday,
+		c.name as companyname,c.address
+		from s_user u,s_company c
+		where u.id=c.id limit #{startPos},#{pageSize}
+	</select> -->
+
+	<!-- 取得总数据条数 -->
+	<select id="getRecordCount" resultType="int">
+		select count(*) from s_user u, s_company c
+		where u.id=c.id 
+	</select>
+
+
+	<select id="selectByPrimaryKey" resultMap="BaseResultMap"
+		parameterType="java.lang.Long">
+		select
+		<include refid="Base_Column_List" />
+		from s_user
+		where id = #{id,jdbcType=BIGINT}
+	</select>
+
+
+
+	<delete id="deleteByPrimaryKey" parameterType="java.lang.Long">
+		delete from s_user
+		where id = #{id,jdbcType=BIGINT}
+	</delete>
+
+	<insert id="insert" parameterType="com.henry.bean.User">
+		insert into s_user (id, name, birthday
+		)
+		values (#{id,jdbcType=BIGINT}, #{userName,jdbcType=VARCHAR},
+		#{birthday,jdbcType=TIMESTAMP}
+		)
+	</insert>
+
+	<insert id="insertSelective" parameterType="com.henry.bean.User">
+		insert into s_user
+		<trim prefix="(" suffix=")" suffixOverrides=",">
+			<if test="id != null">
+				id,
+			</if>
+			<if test="name != null">
+				name,
+			</if>
+			<if test="birthday != null">
+				birthday,
+			</if>
+		</trim>
+		<trim prefix="values (" suffix=")" suffixOverrides=",">
+			<if test="id != null">
+				#{id,jdbcType=BIGINT},
+			</if>
+			<if test="name != null">
+				#{userName,jdbcType=VARCHAR},
+			</if>
+			<if test="birthday != null">
+				#{birthday,jdbcType=TIMESTAMP},
+			</if>
+		</trim>
+	</insert>
+
+	<update id="updateByPrimaryKeySelective" parameterType="com.henry.bean.User">
+		update s_user
+		<set>
+			<if test="name != null">
+				name = #{userName,jdbcType=VARCHAR},
+			</if>
+			<if test="birthday != null">
+				birthday = #{birthday,jdbcType=TIMESTAMP},
+			</if>
+		</set>
+		where id = #{id,jdbcType=BIGINT}
+	</update>
+
+	<update id="updateByPrimaryKey" parameterType="com.henry.bean.User">
+		update s_user
+		set name = #{userName,jdbcType=VARCHAR},
+		birthday = #{birthday,jdbcType=TIMESTAMP}
+		where id = #{id,jdbcType=BIGINT}
+	</update>
+</mapper>

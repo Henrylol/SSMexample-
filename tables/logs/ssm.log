@@ -1,0 +1,303 @@
+[INFO] [2015-05-24 14:37:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:37:05][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 14:37:05 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:37:05][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:37:05][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:37:05][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 14:37:05 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:42:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:42:56][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@6897ccbc: startup date [Sun May 24 14:42:56 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:42:56][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:42:56][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:42:56][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 14:42:56][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@6897ccbc: startup date [Sun May 24 14:42:56 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:45:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:45:27][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4f652035: startup date [Sun May 24 14:45:27 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:45:27][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:45:27][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:45:27][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4f652035: startup date [Sun May 24 14:45:27 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:46:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:46:06][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 14:46:06 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:46:06][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:46:06][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:46:06][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 14:46:06][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 14:46:06 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:47:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:47:26][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4f652035: startup date [Sun May 24 14:47:26 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:47:26][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:47:26][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:47:27][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4f652035: startup date [Sun May 24 14:47:26 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:47:52][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:47:53][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 14:47:53 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:47:53][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:47:53][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:47:53][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 14:47:53][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 14:47:53 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:54:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:54:28][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 14:54:28 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:54:28][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:54:28][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 14:54:29][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 14:54:29][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 14:54:28 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:55:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:55:40][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 14:55:40 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:55:40][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:55:40][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:55:40][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 14:55:40 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:58:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 14:58:57][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 14:58:57 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 14:58:57][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 14:58:57][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 14:58:58][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 14:58:57 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:01:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 15:01:51][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 15:01:51 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:01:51][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 15:01:51][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 15:01:51][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 15:01:51][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 15:01:51 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:02:02][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 15:02:02][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 15:02:02 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:02:02][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 15:02:02][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"id":9,"name":"刘志"}
+[INFO] [2015-05-24 15:02:03][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"id":10,"name":"于凤龙"}
+[INFO] [2015-05-24 15:02:03][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 15:02:02 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:02:30][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 15:02:30][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 15:02:30 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:02:30][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 15:02:30][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 15:02:31][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4fa6cb2d: startup date [Sun May 24 15:02:30 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:06:42][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 15:06:42][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4f652035: startup date [Sun May 24 15:06:42 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:06:42][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 15:06:42][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"中国江苏","id":1,"name":"百度"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"美国加利福尼亚","id":2,"name":"ebay"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"中国北京","id":3,"name":"亚马逊"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"美国纽约","id":4,"name":"新蛋"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"日本东京","id":5,"name":"松下"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"中国上海","id":6,"name":"索尼"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"中国广州","id":7,"name":"索尼"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"台湾高雄","id":8,"name":"鸿基"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"中国资阳","id":9,"name":"开普敦"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"id":9,"name":"刘志"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"address":"中国四川","id":10,"name":"驷马"}
+[INFO] [2015-05-24 15:06:43][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"id":10,"name":"于凤龙"}
+[INFO] [2015-05-24 15:06:43][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4f652035: startup date [Sun May 24 15:06:42 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:08:37][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 15:08:37][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4e345c87: startup date [Sun May 24 15:08:37 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:08:37][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 15:08:37][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"中国江苏","id":1,"name":"百度"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"美国加利福尼亚","id":2,"name":"ebay"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"中国北京","id":3,"name":"亚马逊"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"美国纽约","id":4,"name":"新蛋"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"日本东京","id":5,"name":"松下"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"中国上海","id":6,"name":"索尼"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"中国广州","id":7,"name":"索尼"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"台湾高雄","id":8,"name":"鸿基"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"中国资阳","id":9,"name":"开普敦"}
+[INFO] [2015-05-24 15:08:38][com.henry.test.ServiceImplementationTest]{"address":"中国四川","id":10,"name":"驷马"}
+[INFO] [2015-05-24 15:08:38][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4e345c87: startup date [Sun May 24 15:08:37 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:19:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 15:19:46][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4e345c87: startup date [Sun May 24 15:19:46 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 15:19:46][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 15:19:46][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"中国江苏","id":1,"name":"百度"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"美国加利福尼亚","id":2,"name":"ebay"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"中国北京","id":3,"name":"亚马逊"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"美国纽约","id":4,"name":"新蛋"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"日本东京","id":5,"name":"松下"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"中国上海","id":6,"name":"索尼"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"中国广州","id":7,"name":"索尼"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"台湾高雄","id":8,"name":"鸿基"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"中国资阳","id":9,"name":"开普敦"}
+[INFO] [2015-05-24 15:19:46][com.henry.test.ServiceImplementationTest]{"address":"中国四川","id":10,"name":"驷马"}
+[INFO] [2015-05-24 15:19:46][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4e345c87: startup date [Sun May 24 15:19:46 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 16:06:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 16:06:56][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 16:06:56 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 16:06:56][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 16:06:56][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"中国江苏","id":1,"name":"百度"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"美国加利福尼亚","id":2,"name":"ebay"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"中国北京","id":3,"name":"亚马逊"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"美国纽约","id":4,"name":"新蛋"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"日本东京","id":5,"name":"松下"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"中国上海","id":6,"name":"索尼"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"中国广州","id":7,"name":"索尼"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"台湾高雄","id":8,"name":"鸿基"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"中国资阳","id":9,"name":"开普敦"}
+[INFO] [2015-05-24 16:06:57][com.henry.test.ServiceImplementationTest]{"address":"中国四川","id":10,"name":"驷马"}
+[INFO] [2015-05-24 16:06:57][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@46028049: startup date [Sun May 24 16:06:56 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:39:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:39:19][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:39:19 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:39:19][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:39:19][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:39:19][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:39:19 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:43:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:43:19][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:43:19 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:43:19][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:43:19][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:43:19][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:43:19 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:44:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:44:01][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:44:01 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:44:02][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:44:02][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"company":{"address":"中国江苏","id":1,"name":"张三"},"id":1,"userName":"张三"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"company":{"address":"美国加利福尼亚","id":2,"name":"李四"},"id":2,"userName":"李四"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"company":{"address":"中国北京","id":3,"name":"王五"},"id":3,"userName":"王五"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"company":{"address":"美国纽约","id":4,"name":"郭柳"},"id":4,"userName":"郭柳"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"company":{"address":"日本东京","id":5,"name":"虹曼华"},"id":5,"userName":"虹曼华"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"company":{"address":"中国上海","id":6,"name":"于曼"},"id":6,"userName":"于曼"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"company":{"address":"中国广州","id":7,"name":"张超"},"id":7,"userName":"张超"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"company":{"address":"台湾高雄","id":8,"name":"王垫"},"id":8,"userName":"王垫"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"company":{"address":"中国资阳","id":9,"name":"刘志"},"id":9,"userName":"刘志"}
+[INFO] [2015-05-24 17:44:02][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"company":{"address":"中国四川","id":10,"name":"于凤龙"},"id":10,"userName":"于凤龙"}
+[INFO] [2015-05-24 17:44:02][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:44:01 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:46:34][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:46:34][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:46:34 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:46:34][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:46:34][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"id":9,"name":"刘志"}
+[INFO] [2015-05-24 17:46:35][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"id":10,"name":"于凤龙"}
+[INFO] [2015-05-24 17:46:35][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 17:46:34 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:49:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:49:12][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@5371b6f5: startup date [Sun May 24 17:49:12 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:49:12][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:49:12][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"id":9,"name":"刘志"}
+[INFO] [2015-05-24 17:49:13][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"id":10,"name":"于凤龙"}
+[INFO] [2015-05-24 17:49:13][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5371b6f5: startup date [Sun May 24 17:49:12 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:49:37][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:49:37][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1d489e0e: startup date [Sun May 24 17:49:37 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:49:37][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:49:37][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"id":1,"name":"张三"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"id":2,"name":"李四"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"id":3,"name":"王五"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"id":4,"name":"郭柳"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"id":5,"name":"虹曼华"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"id":6,"name":"于曼"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"id":7,"name":"张超"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"id":8,"name":"王垫"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"id":9,"name":"刘志"}
+[INFO] [2015-05-24 17:49:38][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"id":10,"name":"于凤龙"}
+[INFO] [2015-05-24 17:49:38][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1d489e0e: startup date [Sun May 24 17:49:37 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:51:09][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 17:51:09][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@a80b827: startup date [Sun May 24 17:51:09 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 17:51:09][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 17:51:09][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"company":{"address":"中国江苏","id":1,"name":"张三"},"id":1,"userName":"张三"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"company":{"address":"美国加利福尼亚","id":2,"name":"李四"},"id":2,"userName":"李四"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"company":{"address":"中国北京","id":3,"name":"王五"},"id":3,"userName":"王五"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"company":{"address":"美国纽约","id":4,"name":"郭柳"},"id":4,"userName":"郭柳"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"company":{"address":"日本东京","id":5,"name":"虹曼华"},"id":5,"userName":"虹曼华"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"company":{"address":"中国上海","id":6,"name":"于曼"},"id":6,"userName":"于曼"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"company":{"address":"中国广州","id":7,"name":"张超"},"id":7,"userName":"张超"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"company":{"address":"台湾高雄","id":8,"name":"王垫"},"id":8,"userName":"王垫"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"company":{"address":"中国资阳","id":9,"name":"刘志"},"id":9,"userName":"刘志"}
+[INFO] [2015-05-24 17:51:10][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"company":{"address":"中国四川","id":10,"name":"于凤龙"},"id":10,"userName":"于凤龙"}
+[INFO] [2015-05-24 17:51:10][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@a80b827: startup date [Sun May 24 17:51:09 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:15:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 18:15:35][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1d489e0e: startup date [Sun May 24 18:15:35 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:15:35][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 18:15:35][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"company":{"address":"中国江苏","id":1,"name":"张三"},"id":1,"userName":"张三"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"company":{"address":"美国加利福尼亚","id":2,"name":"李四"},"id":2,"userName":"李四"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"company":{"address":"中国北京","id":3,"name":"王五"},"id":3,"userName":"王五"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"company":{"address":"美国纽约","id":4,"name":"郭柳"},"id":4,"userName":"郭柳"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"company":{"address":"日本东京","id":5,"name":"虹曼华"},"id":5,"userName":"虹曼华"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"company":{"address":"中国上海","id":6,"name":"于曼"},"id":6,"userName":"于曼"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"company":{"address":"中国广州","id":7,"name":"张超"},"id":7,"userName":"张超"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"company":{"address":"台湾高雄","id":8,"name":"王垫"},"id":8,"userName":"王垫"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"company":{"address":"中国资阳","id":9,"name":"刘志"},"id":9,"userName":"刘志"}
+[INFO] [2015-05-24 18:15:36][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"company":{"address":"中国四川","id":10,"name":"于凤龙"},"id":10,"userName":"于凤龙"}
+[INFO] [2015-05-24 18:15:36][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1d489e0e: startup date [Sun May 24 18:15:35 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:29:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 18:29:48][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@a80b827: startup date [Sun May 24 18:29:48 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:29:48][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 18:29:48][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"company":{"address":"中国江苏","companyName":"张三","id":1},"id":1,"userName":"张三"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"company":{"address":"美国加利福尼亚","companyName":"李四","id":2},"id":2,"userName":"李四"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"company":{"address":"中国北京","companyName":"王五","id":3},"id":3,"userName":"王五"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"company":{"address":"美国纽约","companyName":"郭柳","id":4},"id":4,"userName":"郭柳"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"company":{"address":"日本东京","companyName":"虹曼华","id":5},"id":5,"userName":"虹曼华"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"company":{"address":"中国上海","companyName":"于曼","id":6},"id":6,"userName":"于曼"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"company":{"address":"中国广州","companyName":"张超","id":7},"id":7,"userName":"张超"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"company":{"address":"台湾高雄","companyName":"王垫","id":8},"id":8,"userName":"王垫"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"company":{"address":"中国资阳","companyName":"刘志","id":9},"id":9,"userName":"刘志"}
+[INFO] [2015-05-24 18:29:49][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"company":{"address":"中国四川","companyName":"于凤龙","id":10},"id":10,"userName":"于凤龙"}
+[INFO] [2015-05-24 18:29:49][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@a80b827: startup date [Sun May 24 18:29:48 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:42:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 18:42:05][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1d489e0e: startup date [Sun May 24 18:42:05 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:42:05][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 18:42:05][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 18:42:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+[INFO] [2015-05-24 18:42:06][org.springframework.jdbc.support.SQLErrorCodesFactory]SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+[INFO] [2015-05-24 18:42:06][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1d489e0e: startup date [Sun May 24 18:42:05 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:54:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 18:54:40][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@5371b6f5: startup date [Sun May 24 18:54:40 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:54:40][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 18:54:40][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 18:54:41][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+[INFO] [2015-05-24 18:54:41][org.springframework.jdbc.support.SQLErrorCodesFactory]SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+[INFO] [2015-05-24 18:54:41][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5371b6f5: startup date [Sun May 24 18:54:40 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:56:04][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2015-05-24 18:56:04][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 18:56:04 CST 2015]; root of context hierarchy
+[INFO] [2015-05-24 18:56:04][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2015-05-24 18:56:04][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":607419213000,"company":{"address":"中国江苏","companyName":"百度"},"id":1,"userName":"张三"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":-829663478000,"company":{"address":"美国加利福尼亚","companyName":"ebay"},"id":2,"userName":"李四"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":792142413000,"company":{"address":"中国北京","companyName":"亚马逊"},"id":3,"userName":"王五"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":224148813000,"company":{"address":"美国纽约","companyName":"新蛋"},"id":4,"userName":"郭柳"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":539681613000,"company":{"address":"日本东京","companyName":"松下"},"id":5,"userName":"虹曼华"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":381915213000,"company":{"address":"中国上海","companyName":"索尼"},"id":6,"userName":"于曼"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":444966213000,"company":{"address":"中国广州","companyName":"索尼"},"id":7,"userName":"张超"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":405100800000,"company":{"address":"台湾高雄","companyName":"鸿基"},"id":8,"userName":"王垫"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":-54404787000,"company":{"address":"中国资阳","companyName":"开普敦"},"id":9,"userName":"刘志"}
+[INFO] [2015-05-24 18:56:05][com.henry.test.ServiceImplementationTest]{"birthday":299952000000,"company":{"address":"中国四川","companyName":"驷马"},"id":10,"userName":"于凤龙"}
+[INFO] [2015-05-24 18:56:05][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4ea2b99f: startup date [Sun May 24 18:56:04 CST 2015]; root of context hierarchy
